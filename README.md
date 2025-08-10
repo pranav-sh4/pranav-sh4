@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Pranava S 🚀</h1>  
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open Source Contributor</h3>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav-sh4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/pranav-sh4?label=Followers&style=flat" alt="followers" />
-</p>
-
 ---
 
 ## 🌟 About Me  
@@ -33,14 +28,6 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
----
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-sh4&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-sh4&theme=tokyonight" alt="streak stats" />
-</p>
 
 ---
 
