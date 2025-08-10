@@ -1,20 +1,25 @@
-
-<h1 align="center">👋 Hello, I am Pranava S 🚀</h1>  
+<h1 align="center">👋 Hey there, I'm Pranava S 🚀</h1>  
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Open Source Contributor</h3>  
 
-🌟 **About Me:**  
-- 💡 Passionate about building **scalable, high-performance projects**  
-- 🚀 Exploring **AI, Machine Learning and Web3**  
-- 💻 Love working with **React, Node.js and modern backend technologies**  
-- 🔍 Always eager to **learn, innovate, and solve real-world problems**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranav-sh4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/pranav-sh4?label=Followers&style=flat" alt="followers" />
+</p>
 
 ---
 
-### 🚀 Tech Stack  
+## 🌟 About Me  
+- 💡 Passionate about building **scalable, real-time, and high-performance web applications**  
+- 🚀 Exploring **AI, Machine Learning, and Web3** alongside **modern full-stack development**  
+- 🛠️ Skilled in **MERN Stack, SQL, REST APIs, and cloud deployment**  
+- 📚 Strong foundation in **Data Structures, Algorithms, and Core CS concepts**  
+- 🤝 Open to **collaboration on impactful projects & hackathons**  
+
+---
+
+## 🚀 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
@@ -23,15 +28,25 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Let's Connect  
+
+## 📊 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranav-s-345929247/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="YourPortfolioURL"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=web" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-sh4&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-sh4&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranava-s"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:psholla04@gmail.com"><img src="https://img.shields.io/badge/-Email-yellow?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/pranav-sh4"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
 </p>
