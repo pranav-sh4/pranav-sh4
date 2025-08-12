@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hello, I'm Pranava S 🚀</h1>  
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>  
 
-<p align="center">
-  <a href="https://github.com/pranav-sh4"><img src="https://img.shields.io/github/followers/pranav-sh4?label=Followers&style=social" alt="GitHub Followers" /></a>
-  <a href="https://github.com/pranav-sh4?tab=repositories"><img src="https://img.shields.io/github/stars/pranav-sh4?label=Stars&style=social" alt="GitHub Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pranav-sh4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
