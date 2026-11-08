@@ -19,16 +19,16 @@
 
 ---
 
-## 💡 About Me
+##  About Me
 
-- 🚀 **Systems Thinking:** Driven by the challenge of transforming friction into flow—building reliable, high-throughput web and mobile platforms that feel effortless to the end user.
-- 🔬 **Curiosity-Driven Engineering:** Passionate about exploring the intersection of modern full-stack development, cloud infrastructure, and intelligent automation to solve real-world problems.
-- 🏛️ **Principled Foundations:** Grounded in core Computer Science fundamentals—valuing algorithmic clarity, maintainable architectures, and systems that scale gracefully under load.
-- 🤝 **Collaborative Spirit:** An enthusiastic contributor to open-source ecosystems, technical community initiatives, and multidisciplinary research projects.
+-  **Systems Thinking:** Driven by the challenge of transforming friction into flow—building reliable, high-throughput web and mobile platforms that feel effortless to the end user.
+-  **Curiosity-Driven Engineering:** Passionate about exploring the intersection of modern full-stack development, cloud infrastructure, and intelligent automation to solve real-world problems.
+-  **Principled Foundations:** Grounded in core Computer Science fundamentals—valuing algorithmic clarity, maintainable architectures, and systems that scale gracefully under load.
+-  **Collaborative Spirit:** An enthusiastic contributor to open-source ecosystems, technical community initiatives, and multidisciplinary research projects.
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 <div align="center">
 
